@@ -5,4 +5,3 @@ Record my work  of data analysis data warehouse data visualization and data rela
 #### 02.Data-Analysis-China-Automobile-and-New-Energy-Electric-Vehicle-Sales-from-2020-to-2024
 #### 03.rsna-2023-abdominal-trauma-detection
 #### 04.Retail e-commerce data analysis 
-- A. batch data inference Mining dining numbers
