@@ -1,4 +1,4 @@
-Record my work  of data analysis data warehouse data visualization and data related algorithms
+Record my work of data analysis ,data warehouse ,data visualization ,data lineage and data related algorithms
 # My-data-analysis-project
 ## Data-analysis
 
