@@ -7,13 +7,16 @@ Record my work  of data analysis data warehouse data visualization and data rela
 #### 03.rsna-2023-abdominal-trauma-detection
 
 ## PowerBI
+####
 
 ## Tableau
+####
 
 ## Data Lineage
-#### dataData Lineage-2022year-version
+#### 01.dataData Lineage-2022year-version
 
 ## Others
+#### 
 
 ## books
-#### Data Science for Economics and Finance Methodologies and Applications
+#### 01.Data Science for Economics and Finance Methodologies and Applications
