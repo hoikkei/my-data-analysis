@@ -18,5 +18,5 @@ Record my work of data analysis ,data warehouse ,data visualization ,data lineag
 ## Others
 #### 
 
-## books
+## Books
 - 01.Data Science for Economics and Finance Methodologies and Applications
