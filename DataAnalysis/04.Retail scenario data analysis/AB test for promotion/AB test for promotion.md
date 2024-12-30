@@ -37,12 +37,12 @@ AB testing is an experimental method used to compare two versions (A and B), and
 AB testing is a powerful experimental tool. By scientifically designing experiments and determining sample sizes, it can help decision-makers evaluate the effects of different strategies. The calculation of the minimum sample size is an important step in ensuring the validity of the experiment, but it is not the only basis for judgment. Both the sample size and the actually observed effect will affect the statistical significance of the result. In practical operations, various factors of the experiment need to be considered comprehensively, including sample size, observed effect, and the interpretation and application of results, in order to make reasonable decisions.
 
 - Question	Description of the Situation	Significance Judgment
+
 Question	Description of the Situation	Significance Judgment
-| Question | Description of the Situation                                      | Significance Judgment                                                        |
-|----------|-------------------------------------------------------------------|------------------------------------------------------------------------------|
-| 2        | Minimum sample size is 6131, and the effect is 2.4%              | Not significant because the minimum effect magnitude of 2.5% is not reached |
-| 4        | Sample size is 8000, and the effect is 2.4%                      | Significant. After recalculation, the minimum sample size is 6652, and the actual sample size is sufficient |
-| 5        | Minimum sample size is reached and the effect ≥ 2.5%             | Significant, no need for re-testing                                          |
-| 5        | Minimum sample size is reached but the effect < 2.5%             | Re-testing is required based on the actual sample size                       |
+2	Minimum sample size is 6131, and the effect is 2.4%	Not significant because the minimum effect magnitude of 2.5% is not reached
+4	Sample size is 8000, and the effect is 2.4%	Significant. After recalculation, the minimum sample size is 6652, and the actual sample size is sufficient
+5	Minimum sample size is reached and the effect ≥ 2.5%	Significant, no need for re-testing
+5	Minimum sample size is reached but the effect < 2.5%	Re-testing is required based on the actual sample size
+
 
 In this way, AB testing can help enterprises and analysts make more informed data-driven decisions in different decision-making scenarios, avoid blindly implementing new strategies, and improve resource utilization efficiency and the scientific nature of decision-making.
