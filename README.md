@@ -7,6 +7,8 @@ Record my work of data analysis ,data warehouse ,data visualization ,data lineag
 - 03.rsna-2023-abdominal-trauma-detection
 - 04.Retail scenario data analysis
   - offline catering industry -Deduce the number of diners through batch data
+  - online coupon test design
+  - AB test
 
 ## PowerBI
 
