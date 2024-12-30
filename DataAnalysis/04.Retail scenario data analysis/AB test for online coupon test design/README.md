@@ -2,9 +2,18 @@ Record my work of data analysis ,data warehouse ,data visualization ,data lineag
 # My-data-analysis-project
 ## Data-analysis
 
-
+### Key Points of AB Testing: Target KPI and Strategy
 - 04.Retail scenario data analysis
-  - online coupon test design
+  - AB test for online coupon test design
+
+### A good coupon design should be able to answer the following questions:
+- Which has a better effect, taking effect on the same day or the next day?
+- What is the difference in effect between covering weekends and not covering weekends?
+- Do different preferential mechanisms for the same product have different effects?
+- Will extremely deep discounts (free) hurt costs?
+- What kind of coupon is most suitable for driving traffic (transaction volume)?
+- What kind of coupon is most suitable for increasing revenue (transaction value)?
+- What kind of coupon is most suitable for boosting profit?
 
 #### Part 1 Business Objectives
 - Boosting Transaction Volume: Coupons with the highest per capita TC effect.

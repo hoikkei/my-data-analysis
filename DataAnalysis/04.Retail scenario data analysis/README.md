@@ -12,21 +12,6 @@ Record my work of data analysis ,data warehouse ,data visualization ,data lineag
 ###### Member Lifecycle Management: Member Tags, Churn Prediction Models, Cluster Analysis
 
   - offline catering industry -Deduce the number of diners through batch data
-  - online coupon test design
+  - AB test for online coupon test design
     - How to get the minimum sample size
   - CustomerGroup Kmeans
-
-## PowerBI
-
-
-## Tableau
-
-
-## Data Lineage
-- 01.dataData Lineage-2022year-version
-
-## Others
-- 01.Internet Business Analysis Competition-2020year-meituan
-
-## Books
-- 01.Data Science for Economics and Finance Methodologies and Applications

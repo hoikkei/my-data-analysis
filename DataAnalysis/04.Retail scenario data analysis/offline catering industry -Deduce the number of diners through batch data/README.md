@@ -2,6 +2,9 @@ Record my work of data analysis ,data warehouse ,data visualization ,data lineag
 # My-data-analysis-project
 ## Data-analysis
 
+With the number of diners, we can add many new KPIs, such as per capita spending, number of products per capita, etc.
+Based on the newly added number of diners, we can learn about dining scenarios in various time slots throughout the day. For example, when is it most likely for people to eat alone, when is it most likely for two people to have a meal together, and when is it most likely for a large group to have a banquet, etc.
+For users with a relatively fixed number of diners, can we consider launching some customized packages or promotional products to boost the business performance during each meal period?
 
 - 04.Retail scenario data analysis
   - offline catering industry -Deduce the number of diners through batch data
