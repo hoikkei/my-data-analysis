@@ -38,11 +38,12 @@ AB testing is a powerful experimental tool. By scientifically designing experime
 
 - Question	Description of the Situation	Significance Judgment
 
-Question	Description of the Situation	Significance Judgment
-2	Minimum sample size is 6131, and the effect is 2.4%	Not significant because the minimum effect magnitude of 2.5% is not reached
-4	Sample size is 8000, and the effect is 2.4%	Significant. After recalculation, the minimum sample size is 6652, and the actual sample size is sufficient
-5	Minimum sample size is reached and the effect ≥ 2.5%	Significant, no need for re-testing
-5	Minimum sample size is reached but the effect < 2.5%	Re-testing is required based on the actual sample size
+| Question	| Description of the Situation	| Significance Judgment| 
+| :---: | :---: | :---: |
+| 2	| Minimum sample size is 6131, and the effect is 2.4%	| Not significant because the minimum effect magnitude of 2.5% is not reached| 
+| 3	| Sample size is 8000, and the effect is 2.4%	| Significant. After recalculation, the minimum sample size is 6652, and the actual sample size is sufficient| 
+| 4	| Minimum sample size is reached and the effect ≥ 2.5%	| Significant, no need for re-testing| 
+| 5	| Minimum sample size is reached but the effect < 2.5%	| Re-testing is required based on the actual sample size| 
 
 
 In this way, AB testing can help enterprises and analysts make more informed data-driven decisions in different decision-making scenarios, avoid blindly implementing new strategies, and improve resource utilization efficiency and the scientific nature of decision-making.
