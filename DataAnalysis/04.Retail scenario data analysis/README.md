@@ -10,3 +10,5 @@ Record my work of data analysis ,data warehouse ,data visualization ,data lineag
   - AB test for online coupon test design
     - How to get the minimum sample size
   - CustomerGroup Kmeans
+  - Membership Churn Model- lifetimes
+  - Customer Labeling System
