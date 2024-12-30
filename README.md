@@ -12,6 +12,8 @@ Record my work of data analysis ,data warehouse ,data visualization ,data lineag
   - CustomerGroup Kmeans
   - Membership Churn Model- lifetimes
   - Customer Labeling System
+- 05.E-commerce Scenario Data Analysis
+  - user behavior analysis
 
 
 Data Assets Abundance: Batch Data Deduction;
