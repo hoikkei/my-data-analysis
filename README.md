@@ -14,6 +14,10 @@ Record my work of data analysis ,data warehouse ,data visualization ,data lineag
   - Customer Labeling System
 - 05.E-commerce Scenario Data Analysis
   - user behavior analysis
+  - RFM Analysis for Customer Value
+  - user portrait
+  - Sales Forecasting Based on Time Series Models
+  - User Recommendation Based on Collaborative Filtering Model
 
 
 Data Assets Abundance: Batch Data Deduction;
