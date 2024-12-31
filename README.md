@@ -18,6 +18,7 @@ Record my work of data analysis ,data warehouse ,data visualization ,data lineag
   - user portrait
   - Sales Forecasting Based on Time Series Models
   - User Recommendation Based on Collaborative Filtering Model
+  - Cross-border Product Selection
 
 
 Data Assets Abundance: Batch Data Deduction;
