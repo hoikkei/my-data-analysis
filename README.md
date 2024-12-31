@@ -21,6 +21,7 @@ Record my work of data analysis ,data warehouse ,data visualization ,data lineag
   - Cross-border Product Selection
   - data analysis report design
   - Break-even Analysis Based on Linear Regression
+  - Sales Variation Judgment Based on Bayesian Models
 
 Data Assets Abundance: Batch Data Deduction;
 trategy & Effect Evaluation: AB Testing, Strategic Consulting;
