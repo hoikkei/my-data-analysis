@@ -24,6 +24,7 @@ Record my work of data analysis ,data warehouse ,data visualization ,data lineag
   - Sales Variation Judgment Based on Bayesian Models
   - Competitor Anomaly Detection Based on RFM
   - Text Mining Based on User Reviews
+  - Predicting Users' Purchasing Power
 
 Data Assets Abundance: Batch Data Deduction;
 trategy & Effect Evaluation: AB Testing, Strategic Consulting;
